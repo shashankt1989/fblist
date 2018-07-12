@@ -1,3 +1,19 @@
+[Adblock Plus 2.0]
+! Version: 201807112310
+! Title: EasyList
+! Last modified: 11 Jul 2018 23:10 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+! 
+! Please report any unblocked adverts or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist.subscription@gmail.com).
+! GitHub issues: https://github.com/easylist/easylist/issues
+! GitHub pull requests: https://github.com/easylist/easylist/pulls
+! 
+! -----------------------General advert blocking filters-----------------------!
+! *** easylist:easylist/easylist_general_block.txt ***
 /facebookaff/*
 /facebookaff2/*
 /facebooksex.
@@ -84,8 +100,6 @@ facebook.com#?#div[id^="hyperfeed_story_id_"]:-abp-has(input[data-next-question-
 @@||facebook.com/ajax/feed/filter_action/dialog_direct_action_ads?$xmlhttprequest,domain=facebook.com
 @@||facebook.com/rsrc.php/$domain=facebook.com
 @@||fbexternal-a.akamaihd.net/safe_image.php?$image,domain=facebook.com
-@@||picmonkey.com/facebook-canvas/?ads$domain=apps.facebook.com
 @@||www.facebook.com/ad.*^ajaxpipe^$subdocument,~third-party
 @@||www.facebook.com/ads/$generichide
 @@||www.facebook.com/ajax/ads/$xmlhttprequest,domain=www.facebook.com
-@@||connect.facebook.net^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|tube8.es|tube8.fr|youporn.com|youporngay.com
